@@ -14,3 +14,5 @@ git clone https://github.com/VolkanTemel/kodluyoruzilkrepo
 cd kodluyoruzilkrepo
 code .
 ```
+
+![Project](./pic.png)
