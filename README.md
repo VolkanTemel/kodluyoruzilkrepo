@@ -19,8 +19,10 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
 
-## LICENSE
+## License
 
 [MIT](LICENSE)
+
+## Screenshot
 
 ![Project](./pic.png)
